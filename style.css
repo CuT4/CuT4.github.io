@@ -4,14 +4,21 @@ html{
 
 
 
+#titulo{
+    color: darkorange;
+    text-shadow: 5px 5px 0px black;
+
+}
+
 
 body{
     margin: 0;
-    background-color: #efefef;
+    background-color: lightgray;
 }
 
 header{
-    background-color: #364552;
+    border-radius: 1rem;
+    background-image: url("imagenes/prado.png");
     color: white;
     padding: 3rem 2rem;
 }
