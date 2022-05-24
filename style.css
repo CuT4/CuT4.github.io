@@ -5,8 +5,8 @@ html{
 
 
 #titulo{
-    color: darkorange;
-    text-shadow: 5px 5px 0px black;
+    color: whitesmoke;
+    /*text-shadow: 5px 5px 0px black;*/
 
 }
 
@@ -18,8 +18,8 @@ body{
 
 header{
     border-radius: 1rem;
-    background-image: url("imagenes/prado.png");
-    color: white;
+    background-color: #222;
+    
     padding: 3rem 2rem;
 }
 
