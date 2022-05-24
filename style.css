@@ -18,7 +18,8 @@ body{
 
 header{
     border-radius: 1rem;
-    background-color: #222;
+    background-color: mediumpurple;
+    color: whitesmoke;
     
     padding: 3rem 2rem;
 }
@@ -57,7 +58,7 @@ section article h2, section article p{
 
 
 footer{
-    background-color: #222;
+    background-color: mediumpurple;
     padding:1rem;
     color: white;
 }
@@ -75,7 +76,7 @@ footer section a{
 
     transition: color 0.3s ease;
 
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 
 }
