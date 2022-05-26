@@ -17,8 +17,9 @@ body{
 }
 
 header{
-    border-radius: 1rem;
-    background-color: mediumpurple;
+    /*border-radius: 1rem;*/
+    background-color: rgb(88, 25, 214);
+    border-style: solid black;
     color: whitesmoke;
     
     padding: 3rem 2rem;
@@ -58,7 +59,7 @@ section article h2, section article p{
 
 
 footer{
-    background-color: mediumpurple;
+    background-color: rgb(88, 25, 214);
     padding:1rem;
     color: white;
 }
