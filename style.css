@@ -5,13 +5,15 @@
   }
   
   #customers td, #customers th {
-    border: 1px solid #ddd;
+    border: 1px solid darkseagreen;
     padding: 8px;
+	background-color: lightgreen;
   }
   
   #customers tr:nth-child(even){background-color: #f2f2f2;}
   
   #customers tr:hover {background-color: #ddd;}
+  #customers td:hover {background-color: #ddd;}
   
   #customers th {
     padding-top: 12px;
@@ -89,6 +91,7 @@ body{
 	
 	font-family:sans-serif;
 	color:#333;
+	background-color: #333333;
 	
   }
   
